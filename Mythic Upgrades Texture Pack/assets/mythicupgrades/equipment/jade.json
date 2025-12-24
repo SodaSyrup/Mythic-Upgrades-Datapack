@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "mythicupgrades:jade"
+            }
+        ],
+        "humanoid_leggings": [
+            {
+                "texture": "mythicupgrades:jade"
+            }
+        ],
+        "horse_body": [
+            {
+                "texture": "mythicupgrades:jade"
+            }
+        ]
+    }
+}

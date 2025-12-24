@@ -1,0 +1,56 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "custom_model_data": {
+                  "floats": [
+                    2
+                  ]
+                },
+                "item_name": [
+                  {
+                    "text": "Jade Chestplate",
+                    "italic": false
+                  }
+                ],
+                "item_model": "mythicupgrades:jade_chestplate",
+                "lore": [
+                  [
+                    {
+                      "text": "Wear full set of armor to gain power-ups!",
+                      "italic": true,
+                      "color": "gray"
+                    }
+                  ]
+                ],
+                "minecraft:custom_data": {
+                  "mythicupgrades": "jade_armor"
+                },
+                "equippable": {
+                  "slot": "chest",
+                  "asset_id": "mythicupgrades:jade"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

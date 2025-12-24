@@ -1,0 +1,1 @@
+give @s netherite_chestplate[item_model="mythicupgrades:ruby_chestplate",item_name="Ruby Chestplate",equippable={slot:"chest",asset_id:"mythicupgrades:ruby"},lore=[{"color":"gray","italic":true,"text":"Wear full set of armor to gain power-ups!"}],custom_model_data={floats:[2]}] 1

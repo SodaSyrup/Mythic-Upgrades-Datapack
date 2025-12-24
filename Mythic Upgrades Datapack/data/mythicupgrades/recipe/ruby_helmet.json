@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:netherite_helmet"
+  ],
+  "addition": [
+    "minecraft:allay_spawn_egg"
+  ],
+  "template": [
+    "minecraft:armadillo_spawn_egg"
+  ],
+  "result": {
+    "id": "minecraft:netherite_helmet",
+    "components": {
+      "minecraft:item_model": "mythicupgrades:ruby_helmet",
+      "minecraft:item_name": "Ruby Helmet",
+      "minecraft:lore": [
+        "Wear the full set to gain power-ups!"
+      ]
+    },
+    "count": 1
+  }
+}

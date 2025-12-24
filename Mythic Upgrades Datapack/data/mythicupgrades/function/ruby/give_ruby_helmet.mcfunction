@@ -1,0 +1,1 @@
+give @s netherite_helmet[item_model="mythicupgrades:ruby_helmet",item_name="Ruby Helmet",equippable={slot:"head",asset_id:"mythicupgrades:ruby"},lore=[{"color":"gray","italic":true,"text":"Wear full set of armor to gain power-ups!"}],custom_model_data={floats:[2]}] 1

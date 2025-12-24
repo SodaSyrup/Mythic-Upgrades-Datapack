@@ -1,0 +1,1 @@
+give @s netherite_ingot[item_name='"Ruby Ingot"',custom_model_data=1] 1

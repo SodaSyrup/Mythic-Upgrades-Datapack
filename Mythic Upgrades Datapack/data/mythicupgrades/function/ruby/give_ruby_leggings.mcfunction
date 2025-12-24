@@ -1,0 +1,1 @@
+give @s netherite_leggings[item_model="mythicupgrades:ruby_leggings",item_name="Ruby Leggings",equippable={slot:"legs",asset_id:"mythicupgrades:ruby"},lore=[{"color":"gray","italic":true,"text":"Wear full set of armor to gain power-ups!"}],custom_model_data={floats:[2]}] 1

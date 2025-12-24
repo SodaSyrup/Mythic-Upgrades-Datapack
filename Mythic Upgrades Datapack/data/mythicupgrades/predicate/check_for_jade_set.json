@@ -1,0 +1,28 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "head": {
+        "predicates": {
+          "minecraft:custom_data": {"mythicupgrades":"jade_armor"}
+        }
+      },
+      "chest": {
+        "predicates": {
+          "minecraft:custom_data": {"mythicupgrades":"jade_armor"}
+        }
+      },
+      "legs": {
+        "predicates": {
+          "minecraft:custom_data": {"mythicupgrades":"jade_armor"}
+        }
+      },
+      "feet": {
+        "predicates": {
+          "minecraft:custom_data": {"mythicupgrades":"jade_armor"}
+        }
+      }
+    }
+  }
+}

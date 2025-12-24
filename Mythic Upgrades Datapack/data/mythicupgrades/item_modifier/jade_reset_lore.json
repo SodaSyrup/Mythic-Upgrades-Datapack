@@ -1,0 +1,11 @@
+{
+  "function": "minecraft:set_lore",
+  "lore": [
+    {
+      "text": "Wear full set of armor to gain power-ups!",
+      "color": "gray",
+      "italic": true
+    }
+  ],
+  "mode": "replace_all"
+}

@@ -1,0 +1,11 @@
+{
+  "function": "minecraft:set_lore",
+  "lore": [
+    {
+      "text": "Set Bonus: Speed III and Jump Boost III",
+      "color": "dark_green",
+      "italic": false
+    }
+  ],
+  "mode": "replace_all"
+}
